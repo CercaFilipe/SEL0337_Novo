@@ -1,0 +1,23 @@
+commit 396aab9146e8d111bea0561c8a4e4d315beb4b90
+Author: CercaFilipe <filipe.cerqueira@usp.br>
+Date:   Mon Dec 2 14:48:53 2024 -0300
+
+    Enviando arquivo arquivo executado quando blink.py para de executar
+
+commit 621987060941ea3a2018facb6565c9142a6f4d57
+Author: CercaFilipe <filipe.cerqueira@usp.br>
+Date:   Mon Dec 2 14:46:56 2024 -0300
+
+    Enviando arquivo .service
+
+commit db1c9ddbeb236c47d65ea48c27b6dd3896c64063
+Author: CercaFilipe <filipe.cerqueira@usp.br>
+Date:   Mon Dec 2 14:44:29 2024 -0300
+
+    Enviando arquivos do pc do lab
+
+commit e3d97ba453cd59a9114d6f1ba7827d6c610b93f6
+Author: CercaFilipe <89483871+CercaFilipe@users.noreply.github.com>
+Date:   Mon Dec 2 14:22:41 2024 -0300
+
+    Initial commit
